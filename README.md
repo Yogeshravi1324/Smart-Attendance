@@ -1,5 +1,6 @@
 # Smart-Attendance
 A smart project to mark attendance using camera-based face recognition and fingerprint authentication.
+<br>
 Project Overview
 
 The Smart Attendance System is an automated attendance management system developed using face recognition and fingerprint authentication. The project is designed to improve attendance security, accuracy, and efficiency while reducing manual work and proxy attendance.
